@@ -11,16 +11,32 @@ Background: Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defe
 Ministry of Defence
 
 ## Idea
-
+1.AI-Powered Interview Simulator AI generates customized interview questions based on the applicant’s profile. Natural
+Language Processing (NLP) analyzes candidate responses in real-time. 2.Virtual Assistant: Offer a virtual assistant that
+provides guidance on proper e-waste disposal methods and data wiping techniques for devices with sensitive information.
+3.Educational Pop-ups: Display educational pop-ups to raise awareness about the harmful effects of e-waste on the
+environment and human health.
+4.Reward Points System: Introduce a reward points system where users earn points for each e-waste disposal, encouraging
+participation in recycling programs. 3. Smart Scoring & Bias Detection System Uses Machine Learning (ML) to analyze past
+interviews and scoring patterns
 
 ## Proposed Solution / Architecture Diagram
+![image](https://github.com/user-attachments/assets/a89fd9b4-72ca-403c-b715-42fada9e05cb)
 
 
 ## Use Cases
+![image](https://github.com/user-attachments/assets/80788e0c-9f1a-478b-b048-02d4fac21b55)
 
 
 ## Technology Stack
-
+React.js
+Node.js
+PostgreSQL
+Google maps
+Firebox Authenticator
+Git , Postman or Insomnia
 
 ## Dependencies
-
+Mapping service- 15 days
+Data collection- 15 days
+budget- rs.90,000
