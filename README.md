@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:17.03.2025
+## Register Number:212224040288
+## Name:SANJAY A
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
@@ -11,16 +11,43 @@ Background: Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defe
 Ministry of Defence
 
 ## Idea
-
+ AI-Powered Interview Panel:Uses AI & NLP to generate interview questions dynamically based on the candidate’s profile.
+AI evaluates responses in real-time and provides instant scoring based on relevance, depth, and technical accuracy.
+Virtual Boardroom with Real-Time Analytics
+Provides a real-life boardroom experience with interactive video/audio features.
+Uses speech-to-text for response tracking and AI-driven sentiment analysis.
+Gamified Skill Assessment
+Instead of just answering questions, candidates solve real-world challenges or case studies.
+Uses interactive simulations (coding, system design, problem-solving) to assess practical knowledge.
+Smart Scoring & Adaptive Questioning
+Uses AI-based adaptive testing, where difficulty adjusts based on candidate performance.
+Experts receive a quantifiable score for the quality of their questions.
 
 ## Proposed Solution / Architecture Diagram
 
+![Sustainable-development](https://github.com/user-attachments/assets/5484d6e0-137e-4fae-abc8-77e8a2c61ee4)
+
 
 ## Use Cases
+![image](https://github.com/user-attachments/assets/ff9d0ed2-7e5d-4aef-9ba1-c657d9532b06)
 
 
 ## Technology Stack
+React.js
 
+Node.js
+
+PostgreSQL
+
+Google maps
+
+Firebox Authenticator
+
+Git , Postman or Insomnia
 
 ## Dependencies
+Mapping service- 10 days
 
+Data collection- 10 days
+
+budget- rs.50,000
